@@ -1,0 +1,11 @@
+.github
+.prettierrc
+.eslintrc.js
+src
+jest.config.ts
+tsconfig.json
+tsconfig.build.json
+nest-cli.json
+pnpm-lock.yaml
+dist/**/*.d.ts
+dist/**/*.js.map
