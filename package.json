@@ -2,6 +2,7 @@
   "name": "git-clean-branches",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "benjlevesque",
   "license": "MIT",
   "repository": {
     "type": "git",
