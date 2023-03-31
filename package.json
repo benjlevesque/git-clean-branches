@@ -1,5 +1,5 @@
 {
-  "name": "git-clean-branches",
+  "name": "@benjlevesque/git-clean-branches",
   "version": "1.0.0",
   "main": "index.js",
   "author": "benjlevesque",
@@ -23,7 +23,7 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "ts-node src/index.ts",
     "build": "tsc"
   },
   "bin": "./bin/cli.js"
